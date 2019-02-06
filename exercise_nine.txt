@@ -1,0 +1,9 @@
+1. himlne01 is my Git account.
+2. The repository is proficient. Proficient in DT and in K-Pop discography. Just kidding. Kinda.
+3. I did the init, add, commit, remote add origin, remote -v, and push origin master. I did the gits.
+4. This is the txt.
+5. I will stage, commit, and push.
+7. I will pull.
+8. I will delete,
+9. and then checkout the restore.
+10. I will enable access. Yay!
