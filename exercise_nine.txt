@@ -3,6 +3,7 @@
 3. I did the init, add, commit, remote add origin, remote -v, and push origin master. I did the gits.
 4. This is the txt.
 5. I will stage, commit, and push.
+6. I will edit the txt.
 7. I will pull.
 8. I will delete,
 9. and then checkout the restore.
